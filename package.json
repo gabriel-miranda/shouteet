@@ -1,0 +1,12 @@
+{
+  "name": "shouteet",
+  "version": "0.1.0",
+  "description": "App to send tweets over voice",
+  "main": "shouteet.js",
+  "repository": "https://github.com/gabriel-miranda/shouteet.git",
+  "author": "gabriel-miranda <gabmirdev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
